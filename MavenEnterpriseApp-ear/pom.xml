@@ -12,7 +12,7 @@
   <version>1.0</version>
   <name>MavenEnterpriseApp-ear JavaEE6 Assembly</name>
   <url>http://maven.apache.org</url>
-
+vishva
   <build>
     <finalName>MavenEnterpriseApp-ear</finalName>
   </build>
@@ -25,4 +25,5 @@
         </dependency>
     </dependencies>
 </project>
+
 
